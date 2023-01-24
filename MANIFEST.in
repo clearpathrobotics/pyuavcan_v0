@@ -1,0 +1,2 @@
+include *.uavcan
+recursive-include src/pyuavcan_v0/dsdl_files *
